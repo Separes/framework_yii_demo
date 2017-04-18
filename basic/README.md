@@ -1,3 +1,4 @@
+Directed by SeparesWu
 Yii 2 Basic Project Template
 ============================
 
