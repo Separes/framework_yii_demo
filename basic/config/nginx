@@ -1,6 +1,6 @@
 server {
-        listen 7728 default_server;
-        listen [::]:7728 default_server;
+        listen 80;
+        listen 443 ssl spdy;
 
         # SSL configuration
         #
